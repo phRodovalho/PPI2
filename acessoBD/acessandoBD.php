@@ -14,7 +14,7 @@
     date_default_timezone_set('America/Sao_Paulo');
     ?>
 
-    <title>Cadastro de Usuários</title>
+    <title>Slide 5</title>
 
 
 </head>
